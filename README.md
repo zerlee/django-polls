@@ -15,6 +15,11 @@ django-polls是安装django官方教程的步骤，开发的一个简单的投�
 ```
 pip install --user django-polls-0.1.tar.gz
 ```
+3. 应用地址
+
+后台网址：http://127.0.0.1:8000/polls/
+
+前台网址：http://127.0.0.1:8000/admin/
 
 卸载
 ---
@@ -23,11 +28,7 @@ pip install --user django-polls-0.1.tar.gz
 pip uninstall django-polls
 ```
 
-使用
----
-后台网址：http://127.0.0.1:8000/polls/
 
-前台网址：http://127.0.0.1:8000/admin/
 
 
 
