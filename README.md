@@ -3,7 +3,7 @@
 介绍
 ---
 
-django-polls是安装django官方教程的步骤，开发的一个简单的投票应用。
+django-polls是按照django官方教程的步骤，开发的一个简单的投票应用。
 
 如何使用
 ---
